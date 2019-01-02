@@ -1,0 +1,324 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	test02_rotation.f90	/^               KTHETA /;"	v	module:MDPARAM
+A	test05intratest.f90	/^               KTHETA /;"	v	module:MDPARAM
+A	test06init.f90	/^               KTHETA /;"	v	module:MDPARAM
+A	test08FINTRA.f90	/^               KTHETA /;"	v	module:MDPARAM
+A	test08testintra.f90	/^               KTHETA /;"	v	module:MDPARAM
+ANGLE	test02_rotation.f90	/^subroutine ANGLE(/;"	s
+AUTIME	test02_rotation.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AUTIME	test05intratest.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AUTIME	test06init.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AUTIME	test08FINTRA.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AUTIME	test08testintra.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AVO	test02_rotation.f90	/^     real*8, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+AVO	test05intratest.f90	/^     real*8, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+AVO	test06init.f90	/^     real*8, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+AVO	test08FINTRA.f90	/^     real*8, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+AVO	test08testintra.f90	/^     real*8, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+B	test02_rotation.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+B	test05intratest.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+B	test06init.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+B	test08FINTRA.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+B	test08testintra.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+BOHR	test02_rotation.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOHR	test05intratest.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOHR	test06init.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOHR	test08FINTRA.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOHR	test08testintra.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOLZ	test02_rotation.f90	/^     real*8, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOLZ	test05intratest.f90	/^     real*8, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOLZ	test06init.f90	/^     real*8, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOLZ	test08FINTRA.f90	/^     real*8, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOLZ	test08testintra.f90	/^     real*8, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOND	test06init.f90	/^subroutine BOND(/;"	s
+BOND	test08testintra.f90	/^subroutine BOND(/;"	s
+C	test02_rotation.f90	/^     real*8, dimension(3, Nsite) :: C /;"	v	program:main
+C	test06init.f90	/^     real*8, dimension(3, Nsite) :: C /;"	v	module:MDPARAM
+C	test08FINTRA.f90	/^     real*8, dimension(3, Nsite) :: C /;"	v	module:MDPARAM
+C	test08testintra.f90	/^     real*8, dimension(3, Nsite) :: C /;"	v	module:MDPARAM
+C1	test02_rotation.f90	/^   real*8 :: C1(/;"	v
+C2	test02_rotation.f90	/^   real*8 :: C1(3), C2(/;"	v
+CAL	test02_rotation.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+CAL	test05intratest.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+CAL	test06init.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+CAL	test08FINTRA.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+CAL	test08testintra.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+CENTER_OF_MASS	test02_rotation.f90	/^subroutine CENTER_OF_MASS(/;"	s
+CENTER_OF_MASS	test06init.f90	/^subroutine CENTER_OF_MASS(/;"	s
+CENTER_OF_MASS	test08testintra.f90	/^subroutine CENTER_OF_MASS(/;"	s
+CPRINT	test02_rotation.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+CPRINT	test05intratest.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+CPRINT	test06init.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+CPRINT	test08FINTRA.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+CPRINT	test08testintra.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+C_cmass	test02_rotation.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	module:MDPARAM
+C_cmass	test02_rotation.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	program:main
+C_cmass	test05intratest.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	module:MDPARAM
+C_cmass	test06init.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	module:MDPARAM
+C_cmass	test08FINTRA.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	module:MDPARAM
+C_cmass	test08testintra.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	module:MDPARAM
+C_original	test02_rotation.f90	/^     real*8, dimension(3, Nsite) :: C_original /;"	v	module:MDPARAM
+C_original	test05intratest.f90	/^     real*8, dimension(3, Nsite) :: C_original /;"	v	module:MDPARAM
+DENS	test02_rotation.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DENS	test05intratest.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DENS	test06init.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DENS	test08FINTRA.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DENS	test08testintra.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DISTANCE	test02_rotation.f90	/^subroutine DISTANCE(/;"	s
+DISTANCE	test06init.f90	/^subroutine DISTANCE(/;"	s
+DISTANCE	test08testintra.f90	/^subroutine DISTANCE(/;"	s
+DRDX	test02_rotation.f90	/^   real*8 :: C1(3), C2(3), R, DRDX(/;"	v
+DT	test02_rotation.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+DT	test05intratest.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+DT	test06init.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+DT	test08FINTRA.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+DT	test08testintra.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+E	test02_rotation.f90	/^     real*8 :: E,/;"	v	module:VARIABLES
+E	test05intratest.f90	/^     real*8 :: E,/;"	v	module:VARIABLES
+E	test06init.f90	/^     real*8 :: E,/;"	v	module:VARIABLES
+E	test08FINTRA.f90	/^     real*8 :: E,/;"	v	module:VARIABLES
+E	test08testintra.f90	/^     real*8 :: E,/;"	v	module:VARIABLES
+EL	test02_rotation.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EL	test05intratest.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EL	test06init.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EL	test08FINTRA.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EL	test08testintra.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EMASS	test02_rotation.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EMASS	test05intratest.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EMASS	test06init.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EMASS	test08FINTRA.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EMASS	test08testintra.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EPS	test02_rotation.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+EPS	test05intratest.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+EPS	test06init.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+EPS	test08FINTRA.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+EPS	test08testintra.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+F	test02_rotation.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+F	test05intratest.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+F	test06init.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+F	test08FINTRA.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+F	test08testintra.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+FFOUT	test02_rotation.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FFOUT	test05intratest.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FFOUT	test06init.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FFOUT	test08FINTRA.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FFOUT	test08testintra.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FORCE	test05intratest.f90	/^  subroutine FORCE$/;"	s
+FORCE	test06init.f90	/^  subroutine FORCE$/;"	s
+FORCE	test08FINTRA.f90	/^  subroutine FORCE$/;"	s
+FORCE	test08testintra.f90	/^  subroutine FORCE$/;"	s
+FORCETEST	test05intratest.f90	/^  subroutine FORCETEST$/;"	s
+FORCETEST	test06init.f90	/^  subroutine FORCETEST$/;"	s
+FORCETEST	test08FINTRA.f90	/^  subroutine FORCETEST$/;"	s
+FORCETEST	test08testintra.f90	/^  subroutine FORCETEST$/;"	s
+FORCE_inter	test02_rotation.f90	/^subroutine FORCE_inter(/;"	s
+FORCR_intra	test02_rotation.f90	/^  subroutine FORCR_intra(/;"	s
+FORCR_intra	test05intratest.f90	/^  subroutine FORCR_intra(/;"	s
+FORCR_intra	test06init.f90	/^  subroutine FORCR_intra$/;"	s
+FORCR_intra	test08FINTRA.f90	/^  subroutine FORCR_intra$/;"	s
+FORCR_intra	test08testintra.f90	/^  subroutine FORCR_intra$/;"	s
+FOUT	test02_rotation.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+FOUT	test05intratest.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+FOUT	test06init.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+FOUT	test08FINTRA.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+FOUT	test08testintra.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+Finter	test02_rotation.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera/;"	v	module:VARIABLES
+Finter	test05intratest.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera/;"	v	module:VARIABLES
+Finter	test06init.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera/;"	v	module:VARIABLES
+Finter	test08FINTRA.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera/;"	v	module:VARIABLES
+Finter	test08testintra.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera/;"	v	module:VARIABLES
+Fintera	test02_rotation.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera,/;"	v	module:VARIABLES
+Fintera	test05intratest.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera,/;"	v	module:VARIABLES
+Fintera	test06init.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera,/;"	v	module:VARIABLES
+Fintera	test08FINTRA.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera,/;"	v	module:VARIABLES
+Fintera	test08testintra.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera,/;"	v	module:VARIABLES
+HARTREE	test02_rotation.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+HARTREE	test05intratest.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+HARTREE	test06init.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+HARTREE	test08FINTRA.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+HARTREE	test08testintra.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+I	test05intratest.f90	/^     integer :: IS/;"	v	program:MDMAIN
+I	test06init.f90	/^     integer :: IS/;"	v	program:MDMAIN
+I	test08FINTRA.f90	/^     integer :: IS/;"	v	program:MDMAIN
+I	test08testintra.f90	/^     integer :: IS/;"	v	program:MDMAIN
+IIOUT	test02_rotation.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+IIOUT	test05intratest.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+IIOUT	test06init.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+IIOUT	test08FINTRA.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+IIOUT	test08testintra.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+INIT	test05intratest.f90	/^  subroutine INIT$/;"	s
+INIT	test06init.f90	/^  subroutine INIT$/;"	s
+INIT	test08FINTRA.f90	/^  subroutine INIT$/;"	s
+INIT	test08testintra.f90	/^  subroutine INIT$/;"	s
+IOUT	test02_rotation.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+IOUT	test05intratest.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+IOUT	test06init.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+IOUT	test08FINTRA.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+IOUT	test08testintra.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+ISTEP	test05intratest.f90	/^     integer :: ISTEP,/;"	v	program:MDMAIN
+ISTEP	test06init.f90	/^     integer :: ISTEP,/;"	v	program:MDMAIN
+ISTEP	test08FINTRA.f90	/^     integer :: ISTEP,/;"	v	program:MDMAIN
+ISTEP	test08testintra.f90	/^     integer :: ISTEP,/;"	v	program:MDMAIN
+J	test05intratest.f90	/^     integer :: ISTEP, I, J$/;"	v	program:MDMAIN
+J	test06init.f90	/^     integer :: ISTEP, I, J$/;"	v	program:MDMAIN
+J	test08FINTRA.f90	/^     integer :: ISTEP, I, J$/;"	v	program:MDMAIN
+J	test08testintra.f90	/^     integer :: ISTEP, I, J$/;"	v	program:MDMAIN
+K1	test05intratest.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+K1	test06init.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+K1	test08FINTRA.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+K1	test08testintra.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+KBOND	test02_rotation.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+KC	test02_rotation.f90	/^     real*8 :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KC	test05intratest.f90	/^     real*8 :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KC	test06init.f90	/^     real*8 :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KC	test08FINTRA.f90	/^     real*8 :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KC	test08testintra.f90	/^     real*8 :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KTHETA	test02_rotation.f90	/^               KBOND = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+KTHETA	test05intratest.f90	/^               K1 = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+KTHETA	test06init.f90	/^               K1 = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+KTHETA	test08FINTRA.f90	/^               K1 = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+KTHETA	test08testintra.f90	/^               K1 = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+MASS	test02_rotation.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MASS	test02_rotation.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	program:main
+MASS	test05intratest.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MASS	test06init.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MASS	test08FINTRA.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MASS	test08testintra.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MAXSTP	test02_rotation.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MAXSTP	test05intratest.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MAXSTP	test06init.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MAXSTP	test08FINTRA.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MAXSTP	test08testintra.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MDMAIN	test05intratest.f90	/^  program MDMAIN$/;"	p
+MDMAIN	test06init.f90	/^  program MDMAIN$/;"	p
+MDMAIN	test08FINTRA.f90	/^  program MDMAIN$/;"	p
+MDMAIN	test08testintra.f90	/^  program MDMAIN$/;"	p
+MDPARAM	test02_rotation.f90	/^  module MDPARAM$/;"	m
+MDPARAM	test05intratest.f90	/^  module MDPARAM$/;"	m
+MDPARAM	test06init.f90	/^  module MDPARAM$/;"	m
+MDPARAM	test08FINTRA.f90	/^  module MDPARAM$/;"	m
+MDPARAM	test08testintra.f90	/^  module MDPARAM$/;"	m
+N	test02_rotation.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+N	test02_rotation.f90	/^     integer, parameter :: N /;"	v	program:main
+N	test05intratest.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+N	test06init.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+N	test08FINTRA.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+N	test08testintra.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+NEQUIL	test02_rotation.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NEQUIL	test05intratest.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NEQUIL	test06init.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NEQUIL	test08FINTRA.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NEQUIL	test08testintra.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NINTERVAL	test02_rotation.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NINTERVAL	test05intratest.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NINTERVAL	test06init.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NINTERVAL	test08FINTRA.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NINTERVAL	test08testintra.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NPRINT	test02_rotation.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+NPRINT	test05intratest.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+NPRINT	test06init.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+NPRINT	test08FINTRA.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+NPRINT	test08testintra.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+Nsite	test02_rotation.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	module:MDPARAM
+Nsite	test02_rotation.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	program:main
+Nsite	test05intratest.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	module:MDPARAM
+Nsite	test06init.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	module:MDPARAM
+Nsite	test08FINTRA.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	module:MDPARAM
+Nsite	test08testintra.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	module:MDPARAM
+PI	test02_rotation.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+PI	test05intratest.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+PI	test06init.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+PI	test08FINTRA.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+PI	test08testintra.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+Q	test02_rotation.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+Q	test02_rotation.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	program:main
+Q	test05intratest.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+Q	test06init.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+Q	test08FINTRA.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+Q	test08testintra.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+R	test02_rotation.f90	/^     real*8, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+R	test02_rotation.f90	/^   real*8 :: C1(3), C2(3), R,/;"	v
+R	test05intratest.f90	/^     real*8, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+R	test06init.f90	/^     real*8, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+R	test08FINTRA.f90	/^     real*8, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+R	test08testintra.f90	/^     real*8, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+RBOX	test02_rotation.f90	/^     real*8 :: RBOX,/;"	v	module:MDPARAM
+RBOX	test05intratest.f90	/^     real*8 :: RBOX,/;"	v	module:MDPARAM
+RBOX	test06init.f90	/^     real*8 :: RBOX,/;"	v	module:MDPARAM
+RBOX	test08FINTRA.f90	/^     real*8 :: RBOX,/;"	v	module:MDPARAM
+RBOX	test08testintra.f90	/^     real*8 :: RBOX,/;"	v	module:MDPARAM
+RCUT	test02_rotation.f90	/^     real*8 :: RBOX, RCUT,/;"	v	module:MDPARAM
+RCUT	test05intratest.f90	/^     real*8 :: RBOX, RCUT,/;"	v	module:MDPARAM
+RCUT	test06init.f90	/^     real*8 :: RBOX, RCUT,/;"	v	module:MDPARAM
+RCUT	test08FINTRA.f90	/^     real*8 :: RBOX, RCUT,/;"	v	module:MDPARAM
+RCUT	test08testintra.f90	/^     real*8 :: RBOX, RCUT,/;"	v	module:MDPARAM
+REQ	test02_rotation.f90	/^     real*8 :: REQ /;"	v	module:MDPARAM
+REQ	test05intratest.f90	/^     real*8 :: REQ /;"	v	module:MDPARAM
+REQ	test06init.f90	/^     real*8 :: REQ /;"	v	module:MDPARAM
+REQ	test08FINTRA.f90	/^     real*8 :: REQ /;"	v	module:MDPARAM
+REQ	test08testintra.f90	/^     real*8 :: REQ /;"	v	module:MDPARAM
+ROTATION	test02_rotation.f90	/^  subroutine ROTATION$/;"	s
+ROTATION	test05intratest.f90	/^  subroutine ROTATION$/;"	s
+ROTATION	test06init.f90	/^  subroutine ROTATION$/;"	s
+ROTATION	test08FINTRA.f90	/^  subroutine ROTATION$/;"	s
+ROTATION	test08testintra.f90	/^  subroutine ROTATION$/;"	s
+T	test02_rotation.f90	/^     real*8 :: E, T,/;"	v	module:VARIABLES
+T	test05intratest.f90	/^     real*8 :: E, T,/;"	v	module:VARIABLES
+T	test06init.f90	/^     real*8 :: E, T,/;"	v	module:VARIABLES
+T	test08FINTRA.f90	/^     real*8 :: E, T,/;"	v	module:VARIABLES
+T	test08testintra.f90	/^     real*8 :: E, T,/;"	v	module:VARIABLES
+TEMP	test02_rotation.f90	/^     real*8 :: E, T, U,Uintera,Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP	test05intratest.f90	/^     real*8 :: E, T, U,Uintera,Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP	test06init.f90	/^     real*8 :: E, T, U,Uintera,Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP	test08FINTRA.f90	/^     real*8 :: E, T, U,Uintera,Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP	test08testintra.f90	/^     real*8 :: E, T, U,Uintera,Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP0	test02_rotation.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+TEMP0	test05intratest.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+TEMP0	test06init.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+TEMP0	test08FINTRA.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+TEMP0	test08testintra.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+THETAEQ	test02_rotation.f90	/^     real*8 :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+THETAEQ	test05intratest.f90	/^     real*8 :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+THETAEQ	test06init.f90	/^     real*8 :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+THETAEQ	test08FINTRA.f90	/^     real*8 :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+THETAEQ	test08testintra.f90	/^     real*8 :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+U	test02_rotation.f90	/^     real*8 :: E, T, U,/;"	v	module:VARIABLES
+U	test05intratest.f90	/^     real*8 :: E, T, U,/;"	v	module:VARIABLES
+U	test06init.f90	/^     real*8 :: E, T, U,/;"	v	module:VARIABLES
+U	test08FINTRA.f90	/^     real*8 :: E, T, U,/;"	v	module:VARIABLES
+U	test08testintra.f90	/^     real*8 :: E, T, U,/;"	v	module:VARIABLES
+Uinter	test02_rotation.f90	/^     real*8 :: E, T, U,Uintera/;"	v	module:VARIABLES
+Uinter	test05intratest.f90	/^     real*8 :: E, T, U,Uintera/;"	v	module:VARIABLES
+Uinter	test06init.f90	/^     real*8 :: E, T, U,Uintera/;"	v	module:VARIABLES
+Uinter	test08FINTRA.f90	/^     real*8 :: E, T, U,Uintera/;"	v	module:VARIABLES
+Uinter	test08testintra.f90	/^     real*8 :: E, T, U,Uintera/;"	v	module:VARIABLES
+Uintera	test02_rotation.f90	/^     real*8 :: E, T, U,Uintera,/;"	v	module:VARIABLES
+Uintera	test05intratest.f90	/^     real*8 :: E, T, U,Uintera,/;"	v	module:VARIABLES
+Uintera	test06init.f90	/^     real*8 :: E, T, U,Uintera,/;"	v	module:VARIABLES
+Uintera	test08FINTRA.f90	/^     real*8 :: E, T, U,Uintera,/;"	v	module:VARIABLES
+Uintera	test08testintra.f90	/^     real*8 :: E, T, U,Uintera,/;"	v	module:VARIABLES
+V	test02_rotation.f90	/^     real*8, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+V	test05intratest.f90	/^     real*8, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+V	test06init.f90	/^     real*8, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+V	test08FINTRA.f90	/^     real*8, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+V	test08testintra.f90	/^     real*8, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+VARIABLES	test02_rotation.f90	/^  module VARIABLES$/;"	m
+VARIABLES	test05intratest.f90	/^  module VARIABLES$/;"	m
+VARIABLES	test06init.f90	/^  module VARIABLES$/;"	m
+VARIABLES	test08FINTRA.f90	/^  module VARIABLES$/;"	m
+VARIABLES	test08testintra.f90	/^  module VARIABLES$/;"	m
+WMASS	test02_rotation.f90	/^     real*8 :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
+WMASS	test02_rotation.f90	/^     real*8 :: WMASS$/;"	v	program:main
+WMASS	test05intratest.f90	/^     real*8 :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
+WMASS	test06init.f90	/^     real*8 :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
+WMASS	test08FINTRA.f90	/^     real*8 :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
+WMASS	test08testintra.f90	/^     real*8 :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
+i	test02_rotation.f90	/^     in/;"	v	program:main
+i	test02_rotation.f90	/^   in/;"	v
+j	test02_rotation.f90	/^     integer :: i,j$/;"	v	program:main
+main	test02_rotation.f90	/^program main$/;"	p

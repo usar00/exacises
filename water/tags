@@ -1,0 +1,98 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+9000	water.f90	/^9000 format('#STEP#', '    TIME', '     TOTAL ENERGY', '     KINETIC', &$/;"	l	subroutine:OUTPUT	file:
+9010	water.f90	/^9010 format(I7, E10.3, 3E15.6)$/;"	l	subroutine:OUTPUT	file:
+A	water.f90	/^               KTHETA /;"	v	module:MDPARAM
+ANGLE	testBOND.f90	/^subroutine ANGLE(/;"	s
+ANGLE	water.f90	/^  subroutine ANGLE(/;"	s
+AUTIME	water.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AVO	water.f90	/^     real*8, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+B	water.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+BOHR	water.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOLZ	water.f90	/^     real*8, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOND	testBOND.f90	/^subroutine BOND(/;"	s
+BOND	water.f90	/^  subroutine BOND(/;"	s
+C	testBOND.f90	/^   real*8 :: C(/;"	v	program:main
+C	testBOND.f90	/^   real*8 :: PHI, PSI, THETA, C(/;"	v
+CAL	water.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+COORDOUT	water.f90	/^  subroutine COORDOUT$/;"	s
+CPRINT	water.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+C_new	testBOND.f90	/^   real*8 :: PHI, PSI, THETA, C(3), C_new(/;"	v
+C_original	water.f90	/^     real*8, dimension(3, Nsite) :: C_original /;"	v	module:MDPARAM
+C_rotated	water.f90	/^                                      -0.226567, 0.912287, 0.000000\/), (\/3, Nsite\/)), C_rotated$/;"	v	module:MDPARAM
+DENS	water.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DRDX	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(/;"	v	program:main
+DT	water.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+DTDX	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(3, 2), DTDX(/;"	v	program:main
+E	water.f90	/^     real*8 :: E,/;"	v	module:VARIABLES
+EL	water.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EMASS	water.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EPS	water.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+F	water.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+FFOUT	water.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FORCE	water.f90	/^  subroutine FORCE$/;"	s
+FORCETEST	testBOND.f90	/^subroutine FORCETEST$/;"	s
+FORCETEST	water.f90	/^  subroutine FORCETEST$/;"	s
+FORCE_inter	water.f90	/^  subroutine FORCE_inter$/;"	s
+FORCR_intra	water.f90	/^  subroutine FORCR_intra$/;"	s
+FOUT	water.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+Finter	water.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera/;"	v	module:VARIABLES
+Fintera	water.f90	/^     real*8, dimension(3, Nsite, N) :: V, R, F,Fintera,/;"	v	module:VARIABLES
+HARTREE	water.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+I	water.f90	/^     integer :: IS/;"	v	program:MDMAIN
+IIOUT	water.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+INIT	water.f90	/^  subroutine INIT$/;"	s
+INITOUTPUT	water.f90	/^  subroutine INITOUTPUT$/;"	s
+IOUT	water.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+ISTEP	water.f90	/^     integer :: ISTEP,/;"	v	program:MDMAIN
+J	water.f90	/^     integer :: ISTEP, I, J$/;"	v	program:MDMAIN
+K1	water.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+KC	water.f90	/^     real*8 :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KTHETA	water.f90	/^               K1 = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+Kr	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(3, 2), DTDX(3, 3), Kr,/;"	v	program:main
+Kt	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(3, 2), DTDX(3, 3), Kr, Kt,/;"	v	program:main
+MASS	water.f90	/^     real*8, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MAXSTP	water.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MDMAIN	water.f90	/^  program MDMAIN$/;"	p
+MDPARAM	water.f90	/^  module MDPARAM$/;"	m
+MOVEA	water.f90	/^  subroutine MOVEA$/;"	s
+MOVEB	water.f90	/^  subroutine MOVEB$/;"	s
+N	water.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+NEQUIL	water.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NINTERVAL	water.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NPRINT	water.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+Nsite	water.f90	/^     integer, parameter :: N = 64, Nsite /;"	v	module:MDPARAM
+OUTPUT	water.f90	/^  subroutine OUTPUT(/;"	s
+PHI	testBOND.f90	/^   real*8 :: PHI,/;"	v
+PI	testBOND.f90	/^   real*8 :: PHI, PSI, THETA, C(3), C_new(3), PI$/;"	v
+PI	water.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+PSI	testBOND.f90	/^   real*8 :: PHI, PSI,/;"	v
+Q	water.f90	/^     real*8, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+R	testBOND.f90	/^   real*8 :: C(3, 3), R,/;"	v	program:main
+R	water.f90	/^     real*8, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+RBOX	water.f90	/^     real*8 :: RBOX,/;"	v	module:MDPARAM
+RCUT	water.f90	/^     real*8 :: RBOX, RCUT,/;"	v	module:MDPARAM
+REQ	water.f90	/^     real*8 :: REQ /;"	v	module:MDPARAM
+ROTATION	water.f90	/^  subroutine ROTATION$/;"	s
+T	water.f90	/^     real*8 :: E, T,/;"	v	module:VARIABLES
+TEMP	water.f90	/^     real*8 :: E, T, U,Uintera,Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP0	water.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+THETA	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(3, 2), DTDX(3, 3), Kr, Kt, THETA,/;"	v	program:main
+THETA	testBOND.f90	/^   real*8 :: PHI, PSI, THETA,/;"	v
+THETAEQ	water.f90	/^     real*8 :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+U	water.f90	/^     real*8 :: E, T, U,/;"	v	module:VARIABLES
+Ua	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(3, 2), DTDX(3, 3), Kr, Kt, THETA,Ua,/;"	v	program:main
+Ub	testBOND.f90	/^   real*8 :: C(3, 3), R, DRDX(3, 2), DTDX(3, 3), Kr, Kt, THETA,Ua,Ub$/;"	v	program:main
+Uinter	water.f90	/^     real*8 :: E, T, U,Uintera/;"	v	module:VARIABLES
+Uintera	water.f90	/^     real*8 :: E, T, U,Uintera,/;"	v	module:VARIABLES
+V	water.f90	/^     real*8, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+VARIABLES	water.f90	/^  module VARIABLES$/;"	m
+VSCALE	water.f90	/^  subroutine VSCALE$/;"	s
+WMASS	water.f90	/^     real*8 :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
+i	testBOND.f90	/^   in/;"	v	program:main
+j	testBOND.f90	/^   integer :: i, j$/;"	v	program:main
+main	testBOND.f90	/^program main$/;"	p

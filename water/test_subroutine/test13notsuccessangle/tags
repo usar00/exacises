@@ -1,0 +1,72 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	13notsuccess_angle.f90	/^               KTHETA /;"	v	module:MDPARAM
+ANGLE	13notsuccess_angle.f90	/^     function ANGLE(/;"	f	subroutine:INIT
+ANGLE	13notsuccess_angle.f90	/^     subroutine ANGLE(/;"	s	subroutine:FORCR_intra
+AUTIME	13notsuccess_angle.f90	/^                          HARTREE = 4.3597482D-18, &$/;"	v	module:MDPARAM
+AVO	13notsuccess_angle.f90	/^     double precision, parameter ::  BOLZ = 1.380658D-23, &$/;"	v	module:MDPARAM
+B	13notsuccess_angle.f90	/^               A = 650000, & !(kcal\/mol)ang^12$/;"	v	module:MDPARAM
+BOHR	13notsuccess_angle.f90	/^                          AVO = 6.0221367D+23, &$/;"	v	module:MDPARAM
+BOLZ	13notsuccess_angle.f90	/^     double precision, parameter ::  BOLZ /;"	v	module:MDPARAM
+BOND	13notsuccess_angle.f90	/^     subroutine BOND(/;"	s	subroutine:FORCR_intra
+C	13notsuccess_angle.f90	/^     double precision, dimension(3, Nsite) :: C /;"	v	module:MDPARAM
+CAL	13notsuccess_angle.f90	/^                          EMASS = 9.1093897D-28, &$/;"	v	module:MDPARAM
+CENTER_OF_MASS	13notsuccess_angle.f90	/^  subroutine CENTER_OF_MASS(/;"	s
+CPRINT	13notsuccess_angle.f90	/^                NPRINT = 10, &$/;"	v	module:MDPARAM
+C_cmass	13notsuccess_angle.f90	/^                                 Q = (\/-0.82, 0.41, 0.41\/), & !e$/;"	v	module:MDPARAM
+C_rotated	13notsuccess_angle.f90	/^                                      -0.226567, 0.912287, 0.000000\/), (\/3, Nsite\/)),&$/;"	v	module:MDPARAM
+DENS	13notsuccess_angle.f90	/^               EPS = 8.85418782D-12, & !permittivity of free space,(C^2)(J^-1)(m^-1)$/;"	v	module:MDPARAM
+DISTANCE	13notsuccess_angle.f90	/^   function DISTANCE(/;"	f	module:MDPARAM
+DT	13notsuccess_angle.f90	/^               EL = 1.6021766208D-19, & !C$/;"	v	module:MDPARAM
+E	13notsuccess_angle.f90	/^     double precision :: E,/;"	v	module:VARIABLES
+EL	13notsuccess_angle.f90	/^               B = 625.47, & !(kcal\/mol)ang^6$/;"	v	module:MDPARAM
+EMASS	13notsuccess_angle.f90	/^                          AUTIME = 4.134136844D+16, &$/;"	v	module:MDPARAM
+EPS	13notsuccess_angle.f90	/^               TEMP0 = 373, & !K$/;"	v	module:MDPARAM
+F	13notsuccess_angle.f90	/^     double precision, dimension(3, Nsite, N) :: V, R, F,/;"	v	module:VARIABLES
+FFOUT	13notsuccess_angle.f90	/^     character(LEN=20) :: FOUT = 'water_init.xyz', FFOUT /;"	v	module:MDPARAM
+FORCE	13notsuccess_angle.f90	/^  subroutine FORCE$/;"	s
+FORCETEST	13notsuccess_angle.f90	/^  subroutine FORCETEST$/;"	s
+FORCR_intra	13notsuccess_angle.f90	/^  subroutine FORCR_intra$/;"	s
+FOUT	13notsuccess_angle.f90	/^     character(LEN=20) :: FOUT /;"	v	module:MDPARAM
+Finter	13notsuccess_angle.f90	/^     double precision, dimension(3, Nsite, N) :: V, R, F, Fintera/;"	v	module:VARIABLES
+Fintera	13notsuccess_angle.f90	/^     double precision, dimension(3, Nsite, N) :: V, R, F, Fintera,/;"	v	module:VARIABLES
+HARTREE	13notsuccess_angle.f90	/^                          BOHR = 0.529177249, &$/;"	v	module:MDPARAM
+I	13notsuccess_angle.f90	/^     integer :: IS/;"	v	program:MDMAIN
+IIOUT	13notsuccess_angle.f90	/^     integer :: IOUT = 1, IIOUT /;"	v	module:MDPARAM
+INIT	13notsuccess_angle.f90	/^  subroutine INIT$/;"	s
+IOUT	13notsuccess_angle.f90	/^     integer :: IOUT /;"	v	module:MDPARAM
+ISTEP	13notsuccess_angle.f90	/^     integer :: ISTEP,/;"	v	program:MDMAIN
+J	13notsuccess_angle.f90	/^     integer :: ISTEP, I, J$/;"	v	program:MDMAIN
+KBOND	13notsuccess_angle.f90	/^               THETAEQ = 104.0, & !deg$/;"	v	module:MDPARAM
+KC	13notsuccess_angle.f90	/^     double precision :: RBOX, RCUT, WMASS, KC$/;"	v	module:MDPARAM
+KTHETA	13notsuccess_angle.f90	/^               KBOND = 547.5, & !(kcal\/mol)ang^-2$/;"	v	module:MDPARAM
+MASS	13notsuccess_angle.f90	/^     double precision, dimension(Nsite) :: MASS /;"	v	module:MDPARAM
+MAXSTP	13notsuccess_angle.f90	/^     integer :: MAXSTP /;"	v	module:MDPARAM
+MDMAIN	13notsuccess_angle.f90	/^  program MDMAIN$/;"	p
+MDPARAM	13notsuccess_angle.f90	/^  module MDPARAM$/;"	m
+N	13notsuccess_angle.f90	/^     integer, parameter :: N /;"	v	module:MDPARAM
+NEQUIL	13notsuccess_angle.f90	/^                CPRINT = 500, &$/;"	v	module:MDPARAM
+NINTERVAL	13notsuccess_angle.f90	/^                NEQUIL = 10000, &$/;"	v	module:MDPARAM
+NPRINT	13notsuccess_angle.f90	/^     integer :: MAXSTP = 10000, &$/;"	v	module:MDPARAM
+Nsite	13notsuccess_angle.f90	/^     integer, parameter :: N = 2, Nsite /;"	v	module:MDPARAM
+PI	13notsuccess_angle.f90	/^                          CAL = 4.814D3, &$/;"	v	module:MDPARAM
+Q	13notsuccess_angle.f90	/^     double precision, dimension(Nsite) :: MASS = (\/16.0, 1.0, 1.0\/), & !g\/mol$/;"	v	module:MDPARAM
+R	13notsuccess_angle.f90	/^     double precision, dimension(3, Nsite, N) :: V, R,/;"	v	module:VARIABLES
+RBOX	13notsuccess_angle.f90	/^     double precision :: RBOX,/;"	v	module:MDPARAM
+RCUT	13notsuccess_angle.f90	/^     double precision :: RBOX, RCUT,/;"	v	module:MDPARAM
+REQ	13notsuccess_angle.f90	/^     double precision :: REQ /;"	v	module:MDPARAM
+ROTATION	13notsuccess_angle.f90	/^     subroutine ROTATION$/;"	s	subroutine:INIT
+T	13notsuccess_angle.f90	/^     double precision :: E, T,/;"	v	module:VARIABLES
+TEMP	13notsuccess_angle.f90	/^     double precision :: E, T, U, Uintera, Uinter, TEMP$/;"	v	module:VARIABLES
+TEMP0	13notsuccess_angle.f90	/^               DT = 1.0D-15, & !sec$/;"	v	module:MDPARAM
+THETAEQ	13notsuccess_angle.f90	/^     double precision :: REQ = 0.94, & !A$/;"	v	module:MDPARAM
+U	13notsuccess_angle.f90	/^     double precision :: E, T, U,/;"	v	module:VARIABLES
+Uinter	13notsuccess_angle.f90	/^     double precision :: E, T, U, Uintera/;"	v	module:VARIABLES
+Uintera	13notsuccess_angle.f90	/^     double precision :: E, T, U, Uintera,/;"	v	module:VARIABLES
+V	13notsuccess_angle.f90	/^     double precision, dimension(3, Nsite, N) :: V,/;"	v	module:VARIABLES
+VARIABLES	13notsuccess_angle.f90	/^  module VARIABLES$/;"	m
+WMASS	13notsuccess_angle.f90	/^     double precision :: RBOX, RCUT, WMASS,/;"	v	module:MDPARAM
